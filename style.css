@@ -1,0 +1,45 @@
+body {
+    background-color:black ;
+    font-family: Arial;
+    font:white;
+}
+
+h1{
+    color:red;
+    font-family: verdana;
+
+}
+
+
+
+
+.maindiv{
+    background:white;
+    font:black;
+    width:300px;
+    padding:30px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.maindiv button{
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: #ff7272;
+}
+.maindiv button:hover{
+    background-color: red;
+    color: white;
+}
+
+footer{
+    margin-top:40px;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: auto;
+    text-align: center; 
+}
+
+footer:hover{
+    color: #ff7272;
+}
